@@ -6,6 +6,8 @@ Code is under the MIT License.
 
 Music and images are under the [Creative Commons Attribution 4.0 International License](Creative Commons Attribution 4.0 International License)
 
+Only artwork excempt from the CC-By-4.0 license is the Fipps font which is from [here](http://www.fontspace.com/pheist/fipps)
+
 ### Code License
 MIT License
 
